@@ -1,4 +1,4 @@
-,Event.Date,Injury.Severity,Number.of.Engines
+,Accident Date,Injury.Severity,Number.of.Engines
 0,1948-10-24,Fatal(2),1.0
 1,1962-07-19,Fatal(4),1.0
 2,1974-08-30,Fatal(3),1.0
