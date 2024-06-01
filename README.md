@@ -2,7 +2,7 @@
 # Flying Through The Years
 ### Author:Jeremiah Rubin-BlackXWulf
 # Overview
-This Project Analyzes aviation data accidents about civil aviation accidents and selected incidents in the United States and international waters. The project will focus more on airplane accidents.The aviation comapanies that make airplanes can use this analysis to improve and or add more engines to their airplanes for more safer flying and reduction of injury incidents.
+This Project Analyzes aviation data accidents about civil aviation accidents and selected incidents in the United States and international waters. The project will focus on airplane accidents and how many engines each plane has.The aviation comapanies that make airplanes can use this analysis to improve and or add more engines to their airplanes for more safer flying and reduction of injury incidents.
 # Business Understanding
 ![volumetric_efficiency](https://github.com/BlackXWulf/Flying-Through-The-Years/assets/85573566/34724db0-37ef-4ae2-ab80-88a9b54103e2)
 
