@@ -12,7 +12,7 @@ The Aviation accident database has a long list of years from the 1960's to 2023 
 ## Data Preperation
 After getting the data for the number of engines and injury severity incidents data and accident dates, I will be prepping the data to focus on number of engines and injury severity
 # Exploratory Data Ananlysis
-
+After cleaning the data I'll be creating a bar chart showing the average number of engines and injury severity
 # Conclusion
 
 ## Limitations
