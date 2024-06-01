@@ -8,7 +8,7 @@ This Project Analyzes aviation data accidents about civil aviation accidents and
 
 Aviation companies in America can reduce accidents and incidents through improving there airplane engines or adding additionally engines. Doing so will reduce incidents in the air and or crashing. Using Aviation data I'll describe patterns of accidents and incidents through the years on how many engines each plane had in each injury incident.
 # Data Understanding
-
+The Aviation accident database has a long list of years from the 1960's to 2023 about the accidents and how many engines they have with the injury reports per incident.
 ## Data Preperation
 
 # Exploratory Data Ananlysis
