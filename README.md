@@ -17,7 +17,7 @@ After cleaning the data I'll be creating a bar chart showing the average number 
 # Conclusions
 This analysis leads to showing that having less engines would have a higher and severe injury incident:
 
-- **The more engines the better.** Based on the data the more engines each plane had also had less injuries to non-fatal injuries.
+- **The more engines,the less an accident can happen.** Based on the data the more engines each plane had also had less injuries to non-fatal injuries.
 ## Limitations
 
 ## Recommendations
