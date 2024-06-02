@@ -14,7 +14,9 @@ After getting the data for the number of engines and injury severity incidents d
 # Exploratory Data Ananlysis
 After cleaning the data I'll be creating a bar chart showing the average number of engines and injury severity
 # Conclusion
+This analysis leads to showing that having less engines would have a higher and severe injury incident:
 
+- **The more engines the better.** Based on the data the more engines each plane had also had less injuries to non-fatal injuries.
 ## Limitations
 
 ## Recommendations
