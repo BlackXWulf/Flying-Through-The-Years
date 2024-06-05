@@ -25,6 +25,7 @@ This analysis leads to showing that having less engines would have a higher and 
 
 ## Next Steps 
 
+## Repository Structure
 - data
 - images
 - README.md
