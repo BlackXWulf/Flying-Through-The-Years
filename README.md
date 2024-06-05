@@ -24,6 +24,7 @@ This analysis leads to showing that having less engines would have a higher and 
 ## Recommendations   
 
 ## Next Steps 
+Further analyses could yield additional insights to further improve how many engine a plane should have to reduce accidents:
 
 ## Repository Structure
 - data
