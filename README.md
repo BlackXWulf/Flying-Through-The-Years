@@ -9,7 +9,7 @@ This Project Analyzes aviation data accidents about civil aviation accidents and
 Aviation companies in America can reduce accidents and incidents through improving there airplane engines or adding additionally engines. Doing so will reduce incidents in the air and or crashing. Using Aviation data I'll describe patterns of accidents and incidents through the years on how many engines each plane had in each injury incident.
 # Data Understanding
 The Aviation accident database has a long list of years from the 1960's to 2023 about the accidents and how many engines they have with the injury reports per incident.
-## Data Preperation
+# Data Preperation
 After getting the data for the number of engines and injury severity incidents data and accident dates, I will be prepping the data to focus on number of engines and injury severity
 # Exploratory Data Ananlysis
 After cleaning the data I'll be creating a bar chart showing the average number of engines and injury severity
@@ -21,8 +21,6 @@ This analysis leads to showing that having less engines would have a higher and 
 ## Limitations
 - **How the engine failed.** No data on how the engine failed on an individual plane.
 - **Was it the plane?** limiting factor if the plane was really the cause of the accident.
-## Recommendations   
-
 ## Next Steps 
 Further analyses could yield additional insights to further improve how many engine a plane should have to reduce accidents:
 
