@@ -10,7 +10,7 @@ Aviation companies in America can reduce accidents and incidents through improvi
 # Data Understanding
 The Aviation accident database has a long list of years from the 1960's to 2023 about the accidents and how many engines they have with the injury reports per incident.
 # Data Preperation
-![Screenshot 2024-06-14 125837](https://github.com/BlackXWulf/Flying-Through-The-Years/assets/85573566/73c66cf6-a32c-42db-b6df-a22d8a1e6ccc)
+![Screenshot 2024-06-15 133731](https://github.com/BlackXWulf/Flying-Through-The-Years/assets/85573566/3b464adf-e4cc-4ce8-b71a-1d87f34a3025)
 
 After getting the data for the number of engines and injury severity incidents data and accident dates, I will be prepping the data to focus on number of engines and injury severity
 # Exploratory Data Analysis
